@@ -54,6 +54,9 @@ PointRead 是一个面向 Windows 的轻量点读助手。
 dotnet build .\PointRead\PointRead.csproj
 ```
 
+在构建后，可以在.\PointRead\bin\Debug\net9.0-windows10.0.19041.0目录下打开PointRead.exe进行体验
+
+
 运行：
 
 ```powershell
